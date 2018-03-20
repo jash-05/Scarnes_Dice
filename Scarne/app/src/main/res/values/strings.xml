@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scarne</string>
+    <string name="hold">HOLD</string>
+    <string name="reset">RESET</string>
+    <string name="roll">ROLL</string>
+    <string name="your_score">Your score</string>
+    <string name="total_score">Total Score</string>
+    <string name="todo">TODO</string>
+    <string name="computer_score">Computer score</string>
+</resources>
